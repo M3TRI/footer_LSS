@@ -1,1 +1,1 @@
-#FOOTER ДЛЯ Lost Life Studio
+# FOOTER ДЛЯ Lost Life Studio
